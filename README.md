@@ -1,0 +1,2 @@
+# Data-Engineering-Case-Study-Referral-System-ETL-Fraud-Logic
+An end-to-end data engineering project that processes referral reward datasets, performs data cleaning, merges multi-source logs, applies timezone normalization, removes duplicates, handles missing values, and implements business logic rules to validate referral rewards. Includes Dockerized execution, profiling, and a final clean dataset output.
